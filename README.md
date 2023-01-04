@@ -13,8 +13,8 @@ Implementation of data structures using C language. The topics covered include t
 * [selection sort](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/selectionsort.c) : - Implementation of selection sort algorithm
 * [Binary Search](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/binarysearch.c) :- Implementation of Binary search using recursion
 * [Polynomial Addition -I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/polynomial_addition_1.c):- Addition of two polynomials using a single array
-* [Sparse matrix - Simple Transpose]():- Transposing a matrix using brute force ( inefficient algorithm)
-* [Sparse matrix - Fast Transpose]():- Transposing a matrix using efficient algorithm
+* [Sparse matrix - Simple Transpose](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/simple_transpose.c):- Transposing a matrix using brute force ( inefficient algorithm)
+* [Sparse matrix - Fast Transpose](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/fast_transpose.c):- Transposing a matrix using efficient algorithm
 * [Pattern Matching - End Indices method]():- Pattern matching algorithm - I
 * [Pattern Matching - KMP algorithm]():- Implementation of KMP algorithm for pattern matching
 * [Stacks - I]():- Implementing stacks using dynamic arrays
