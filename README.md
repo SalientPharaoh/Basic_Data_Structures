@@ -15,9 +15,9 @@ Implementation of data structures using C language. The topics covered include t
 * [Polynomial Addition -I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/polynomial_addition_1.c):- Addition of two polynomials using a single array
 * [Sparse matrix - Simple Transpose](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/simple_transpose.c):- Transposing a matrix using brute force ( inefficient algorithm)
 * [Sparse matrix - Fast Transpose](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/fast_transpose.c):- Transposing a matrix using efficient algorithm
-* [Pattern Matching - End Indices method]():- Pattern matching algorithm - I
-* [Pattern Matching - KMP algorithm]():- Implementation of KMP algorithm for pattern matching
-* [Stacks - I]():- Implementing stacks using dynamic arrays
+* [Pattern Matching - End Indices method](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/end_indices_algo.c):- Pattern matching algorithm - I
+* [Pattern Matching - KMP algorithm](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/kmp_algorithm.c):- Implementation of KMP algorithm for pattern matching
+* [Stacks - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/stack_1.c):- Implementing stacks using dynamic arrays
 * [Circular Queue]():- Implementing circular queue using dynamic arrays
 * [Postfix - Evaluation]():- Evaluating a postfix expression using stacks
 * [Postfix - Conversion]():- Converting an infix expression to postfix expression
