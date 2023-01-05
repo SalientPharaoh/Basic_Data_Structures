@@ -18,6 +18,7 @@ Implementation of data structures using C language. The topics covered include t
 * [Pattern Matching - End Indices method](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/end_indices_algo.c):- Pattern matching algorithm - I
 * [Pattern Matching - KMP algorithm](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/kmp_algorithm.c):- Implementation of KMP algorithm for pattern matching
 * [Stacks - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/stack_1.c):- Implementing stacks using dynamic arrays
+* [Queue - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/queue_1.c) :- Implementing queue using dynamic linear array. Highly memory inefficient
 * [Circular Queue]():- Implementing circular queue using dynamic arrays
 * [Postfix - Evaluation]():- Evaluating a postfix expression using stacks
 * [Postfix - Conversion]():- Converting an infix expression to postfix expression
