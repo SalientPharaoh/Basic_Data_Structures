@@ -53,5 +53,6 @@ int main(){
       display();
     }
   }
+  free(stack);
   return 0;
 }
