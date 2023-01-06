@@ -19,10 +19,10 @@ Implementation of data structures using C language. The topics covered include t
 * [Pattern Matching - KMP algorithm](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/kmp_algorithm.c):- Implementation of KMP algorithm for pattern matching
 * [Stacks - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/stack_1.c):- Implementing stacks using dynamic arrays
 * [Queue - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/queue_1.c) :- Implementing queue using dynamic linear array. Highly memory inefficient
-* [Circular Queue]():- Implementing circular queue using dynamic arrays
+* [Circular Queue](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/circularqueue.c):- Implementing circular queue using dynamic arrays
 * [Postfix - Evaluation](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/postfixevaluation.c):- Evaluating a postfix expression using stacks
 * [Postfix - Conversion](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/infixtopostfix.c):- Converting an infix expression to postfix expression
-* [Singly Linked List]():- implementing basic add,delete and insert operations using linked list
+* [Singly Linked List](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/singlylinkedlist_1.c):- implementing basic add,delete and insert operations using linked list
 * [Stacks -II]() :- Implementing stacks using singly linked list
 * [Queues - II]() :- Implementing queues using singly linked list
 * [Multiple stacks]():- Implementation of multiple stacks using singly linked list
