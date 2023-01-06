@@ -20,8 +20,8 @@ Implementation of data structures using C language. The topics covered include t
 * [Stacks - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/stack_1.c):- Implementing stacks using dynamic arrays
 * [Queue - I](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/queue_1.c) :- Implementing queue using dynamic linear array. Highly memory inefficient
 * [Circular Queue]():- Implementing circular queue using dynamic arrays
-* [Postfix - Evaluation]():- Evaluating a postfix expression using stacks
-* [Postfix - Conversion]():- Converting an infix expression to postfix expression
+* [Postfix - Evaluation](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/postfixevaluation.c):- Evaluating a postfix expression using stacks
+* [Postfix - Conversion](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/infixtopostfix.c):- Converting an infix expression to postfix expression
 * [Singly Linked List]():- implementing basic add,delete and insert operations using linked list
 * [Stacks -II]() :- Implementing stacks using singly linked list
 * [Queues - II]() :- Implementing queues using singly linked list
