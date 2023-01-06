@@ -24,10 +24,11 @@ Implementation of data structures using C language. The topics covered include t
 * [Postfix - Conversion](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/infixtopostfix.c):- Converting an infix expression to postfix expression
 * [Singly Linked List](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/singlylinkedlist_1.c):- implementing basic add,delete and insert operations using linked list
 * [Stacks -II](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/stack_2.c) :- Implementing stacks using singly linked list
-* [Queues - II]() :- Implementing queues using singly linked list
-* [Multiple stacks]():- Implementation of multiple stacks using singly linked list
-* [Multiple queue]() :- implementation of multiple queues using singly linked list
+* [Queues - II](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/queue_2.c) :- Implementing queues using singly linked list
+* [Multiple stacks](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/multiple_stack.c):- Implementation of multiple stacks using singly linked list
+* [Multiple queue](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/multiple_queue.c) :- implementation of multiple queues using singly linked list
 * [Polynomial Addition - II]() :- Addition of polynomials using circular linked list
+* [Circular Linked List]() :- Implementing basic add,delete,insert and show operation using circular linked list
 * [Doubly Linked List]() :- Implementing basic add, delete and insert operations using doubly linked list
 * [Binary Tree]() :- Implementation of formation of binary tree using doubly linked lists
 * [Traversal in Trees]():- Implementing Postorder, Inorder, Preorder and Level Order Binary Tree traversals
