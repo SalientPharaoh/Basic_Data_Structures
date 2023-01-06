@@ -23,7 +23,7 @@ Implementation of data structures using C language. The topics covered include t
 * [Postfix - Evaluation](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/postfixevaluation.c):- Evaluating a postfix expression using stacks
 * [Postfix - Conversion](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/infixtopostfix.c):- Converting an infix expression to postfix expression
 * [Singly Linked List](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/singlylinkedlist_1.c):- implementing basic add,delete and insert operations using linked list
-* [Stacks -II]() :- Implementing stacks using singly linked list
+* [Stacks -II](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/stack_2.c) :- Implementing stacks using singly linked list
 * [Queues - II]() :- Implementing queues using singly linked list
 * [Multiple stacks]():- Implementation of multiple stacks using singly linked list
 * [Multiple queue]() :- implementation of multiple queues using singly linked list
