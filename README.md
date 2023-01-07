@@ -27,7 +27,7 @@ Implementation of data structures using C language. The topics covered include t
 * [Queues - II](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/queue_2.c) :- Implementing queues using singly linked list
 * [Multiple stacks](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/multiple_stack.c):- Implementation of multiple stacks using singly linked list
 * [Multiple queue](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/multiple_queue.c) :- implementation of multiple queues using singly linked list
-* [Polynomial Addition - II]() :- Addition of polynomials using circular linked list
+* [Polynomial Addition - II](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/polynomial_addition_2.c) :- Addition of polynomials using circular linked list
 * [Circular Linked List]() :- Implementing basic add,delete,insert and show operation using circular linked list
 * [Doubly Linked List]() :- Implementing basic add, delete and insert operations using doubly linked list
 * [Binary Tree]() :- Implementation of formation of binary tree using doubly linked lists
