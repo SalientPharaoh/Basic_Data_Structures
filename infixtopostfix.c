@@ -1,87 +1,82 @@
+//infix to postfix
 #include <stdio.h>
 
 int icp[]={20,19,12,12,13,13,13,0};
 int isp[]={0,19,12,12,13,13,13,0};
 
 typedef enum{
-  lparen,rparen,plus,minus,mul,mod,divide,operand,eos
-}token;
+  lparen,rparen,plus,minus,mul,divide,mod,eos,operand
+}precedence;
 
 char stack[100];
-int top=-1;
-
-char string[100];
+int top=0;
+char s[100];
 
 void push(char item){
   stack[++top]=item;
 }
 
-char pop(){
+char pop() {
   return stack[top--];
 }
 
-token gettoken(char *str, int *n){
-  *str= string[(*n)++];
-  switch(*str){
-    case '+':{return plus;}
+precedence gettoken(char *symbol, int* n){
+  *symbol=s[(*n)++];
+  switch(*symbol){
+    case '+': return plus;
     case '-':return minus;
     case '*':return mul;
     case '/':return divide;
     case '%':return mod;
-    case ')':return rparen;
-    case '(':return lparen;
     case '\0':return eos;
+    case ')':return rparen;
+    case'(': return lparen;
     default : return operand;
   }
 }
 
-token equivalent(char s){
+precedence equiv(char s){
   switch(s){
-    case '+':{return plus;}
+    case '+': return plus;
     case '-':return minus;
     case '*':return mul;
     case '/':return divide;
     case '%':return mod;
-    case ')':return rparen;
-    case '(':return lparen;
     case '\0':return eos;
+    case ')':return rparen;
+    case'(': return lparen;
     default : return operand;
   }
 }
 
 void convert(){
-  int p=0;
-  char str;
   int n=0;
-  while(string[p++]!='\0'){
-    token symbol=gettoken(&str, &n);
-    if(symbol==operand){
-      printf("%c ",str);
-    }
-    else if(symbol==rparen){
-      char a=pop();
-      while(a!='('){
-        printf("%c ",a);
+  char symbol;
+  precedence token=gettoken(&symbol,&n);
+  while(token!=eos){
+    if(token==operand) printf("%c ",symbol);
+    else if(token==rparen){
+      char sym;
+      while((stack[top])!='('){
+        printf("%c",pop());
       }
       pop();
     }
     else{
-      while((isp[equivalent(stack[top])] >= icp[symbol])){
-        printf("%c ",pop());
-      }
-      push(str);
+      while(isp[equiv(stack[top])]>=icp[token]) printf("%c",pop());
+      push(symbol);
     }
+    token=gettoken(&symbol,&n);
   }
-  char res;
-  while((res=pop())!='\0'){
-    printf("%c ",res);
+  while((symbol=pop())!='\0'){
+    printf("%c",symbol);
   }
 }
 
 int main(){
   stack[0]='\0';
   printf("Enter the expression:-\n");
-  scanf("%s",string);
+  scanf("%s",s);
   convert();
   return 0;
 }
