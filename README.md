@@ -34,5 +34,5 @@ Click on :arrow_forward: icon to test the code on replit
 * [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#BinaryTree.c)[Binary Tree](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/binary_tree.c) :- Creation of Binary Trees and Tree Traversal (Preorder, Inorder and Postorder)
 * [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#maxheap.c)[Heap Operation](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/maxheap.c) :- Implementation of basic heap operations using max complete binary trees
 * [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#binarysearchtree.c)[Binary Search Tree](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/bst.c) :- Performing operations like adding a node and searching a node in a binary search tree
-* [:arrow_forward:]()[Breadth first search]():- Implementation of Breadth first search algorithm
-* [:arrow_forward:]()[Depth first search]():- Implementation of Depth first search algorithm
+* [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#bfs.c)[Breadth first search](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/bfs_matrix.c):- Implementation of Breadth first search algorithm using adjacency matrix representation
+* [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#dfs.c)[Depth first search](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/dfs_matrix.c):- Implementation of Depth first search algorithm using adjacency matrix representation
