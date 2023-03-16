@@ -33,6 +33,6 @@ Click on :arrow_forward: icon to test the code on replit
 * [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#linkedcircular.c)[Circular Linked List](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/circular_linked_list.c) :- Implementing basic add,delete,insert and show operation using circular linked list
 * [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#BinaryTree.c)[Binary Tree](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/binary_tree.c) :- Creation of Binary Trees and Tree Traversal (Preorder, Inorder and Postorder)
 * [:arrow_forward:]()[Heap Operation]() :- Implementation of basic heap operations using max complete binary trees
-* [:arrow_forward:]()[Binary Search Tree]() :- Performing operations like adding a node and searching a node in a binary search tree
+* [:arrow_forward:](https://replit.com/@SahilKhirwal/Data-Structures-Lab#binarysearchtree.c)[Binary Search Tree](https://github.com/SalientPharaoh/Basic_Data_Structures/blob/main/bst.c) :- Performing operations like adding a node and searching a node in a binary search tree
 * [:arrow_forward:]()[Breadth first search]():- Implementation of Breadth first search algorithm
 * [:arrow_forward:]()[Depth first search]():- Implementation of Depth first search algorithm
